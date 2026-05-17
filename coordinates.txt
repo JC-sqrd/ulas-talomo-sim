@@ -1,0 +1,33 @@
+//Ulas-Talomo Bounding Box
+125.5438290513,7.0446529917,125.5514894402,7.057535971
+
+
+
+
+//Ulas Flyover Start Node
+12373026531
+
+//Ulas Flyover End Node
+9596531707
+
+//Ulas Flyover Start Point
+7.0550936, 125.5421582
+
+//Ulas Flyover End Point
+7.0463073, 125.5532196
+
+//Ulas Flyover Way
+1042528635
+
+//Ulas Flyover Uncompleted Way
+1042528633
+
+
+
+12373026532
+12373026526
+12373026527
+12373026528
+12373026529
+12373026530
+12373026531 

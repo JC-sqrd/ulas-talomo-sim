@@ -1,0 +1,16 @@
+==================================================
+         SIMULATION RUN SUMMARY REPORT
+==================================================
+
+Route: Ulas Flyover Vector (Crimson)
+ -> Total Sample Vehicles Concluded: 5311
+ -> Average Calculated Travel Time : 104.61 seconds
+ -> Maximum Bottleneck Delay Time  : 158.88 seconds
+ -> Real Operational Velocity Speed: 59.68 kph
+
+Route: A* Ground Optimization (Blue)
+ -> Total Sample Vehicles Concluded: 5026
+ -> Average Calculated Travel Time : 291.01 seconds
+ -> Maximum Bottleneck Delay Time  : 628.94 seconds
+ -> Real Operational Velocity Speed: 29.93 kph
+==================================================
