@@ -14,3 +14,27 @@ Route: A* Ground Optimization (Blue)
  -> Maximum Bottleneck Delay Time  : 628.94 seconds
  -> Real Operational Velocity Speed: 29.93 kph
 ==================================================
+
+
+==================================================
+         SIMULATION RUN SUMMARY REPORT
+==================================================
+
+Route: Real Flyover Vector (Crimson)
+ -> Total Sample Vehicles Concluded: 5220
+ -> Average Calculated Travel Time : 104.74 seconds
+ -> Maximum Bottleneck Delay Time  : 154.92 seconds
+ -> Real Operational Velocity Speed: 59.63 kph
+
+Route: Hypothetical Straight Flyover (Green)
+ -> Total Sample Vehicles Concluded: 5237
+ -> Average Calculated Travel Time : 95.50 seconds
+ -> Maximum Bottleneck Delay Time  : 140.86 seconds
+ -> Real Operational Velocity Speed: 59.82 kph
+
+Route: A* Ground Optimization (Blue)
+ -> Total Sample Vehicles Concluded: 4939
+ -> Average Calculated Travel Time : 290.47 seconds
+ -> Maximum Bottleneck Delay Time  : 592.38 seconds
+ -> Real Operational Velocity Speed: 29.93 kph
+==================================================
